@@ -1,0 +1,14 @@
+<html>
+<head>
+        <title> Anchor Tag</title>
+</head>
+<body>
+        <a href = "https://www.amazon.in">
+        click here to shop
+         </a>
+        <a href ="https://www.flipkart.com">
+         <img src= 'puppy1.jpeg">
+          </a>
+</body>
+</html>
+
